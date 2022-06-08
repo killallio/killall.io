@@ -1,0 +1,27 @@
+{
+    "author" : {
+        "name"  : "Joachim Schmidt",
+        "email" : "<joachim.schmidt@semaphore-networks.ch"
+    },
+    "project" : {
+        "name"            : "killallio_sig_sync",
+        "type"            : "COMP_PRJ_TYPE",
+        "category"        : "IPS",
+        "vivado_version"  : "2022.1",
+        "target_language" : "VHDL",
+        "vhdl_version"    : "VHDL 2008"
+    },
+    "hardware" : {
+        "part_name"  : "xc7z015clg485-2",
+        "board_name" : "hepia-cores.ch:scalp_node:part0:0.1"
+    },
+    "components" : {
+        "ips" : {
+            "killallio_sig_sync" : {
+                "hdl" : "enable",
+                "xci" : {
+                }
+            }
+        }
+    }
+}
