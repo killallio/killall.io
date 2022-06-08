@@ -1,0 +1,3 @@
+[submodule "src/hdl/xilinx/tools/vivado_prj_creator"]
+	path = src/hdl/xilinx/tools/vivado_prj_creator
+	url = https://gitedu.hesge.ch/laurent.gantel/vivado_prj_creator.git
